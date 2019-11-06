@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Molly M",
+    "name": "Mohammad Jinnah",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "molly@hawaii.edu",
@@ -14,7 +14,8 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-    "profiles": [{
+    "profiles": [
+      {
         "network": "github",
         "username": "mmaluhia",
         "url": "http://github.com/changeme"
@@ -36,12 +37,10 @@
       }
     ]
   },
-  "interests": [{
+  "interests": [
+    {
       "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
+      "keywords": ["Arduino", "TI MSP430"]
     },
     {
       "name": "data mining",
@@ -52,40 +51,31 @@
       "keywords": []
     }
   ],
-  "skills": [{
+  "skills": [
+    {
       "name": "Languages and Frameworks",
       "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
+      "keywords": ["C", "C++", "Java", "Javascript", "Assembly", "Common Lisp"]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
+      "keywords": ["MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad"]
     }
   ],
-  "education": [{
-    "institution": "University of Hawaii, Honolulu, HI",
-    "area": "Computer Science (expected Spring, 2018)",
-    "studyType": "B.S.",
-    "startDate": "2013-09-01",
-    "endDate": "Present",
-    "gpa": "",
-    "courses": []
-  }],
-  "work": [{
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
       "website": "",
@@ -110,7 +100,8 @@
       ]
     }
   ],
-  "volunteer": [{
+  "volunteer": [
+    {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
       "position": "Software Developer",
@@ -136,7 +127,8 @@
       ]
     }
   ],
-  "awards": [{
+  "awards": [
+    {
       "title": "B+ Scholarship",
       "date": "2013-Present",
       "awarder": "State of Hawaii",
@@ -149,8 +141,10 @@
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
-  "references": [{
-    "name": "Available upon request",
-    "reference": ""
-  }]
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
 }
