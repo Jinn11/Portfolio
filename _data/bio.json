@@ -14,8 +14,7 @@
       "countryCode": "USA",
       "region": "New York"
     },
-    "profiles": [
-      {
+    "profiles": [{
         "network": "github",
         "username": "Jinn11",
         "url": "http://github.com/Jinn11"
@@ -32,22 +31,20 @@
       }
     ]
   },
-  "interests": [
-    {
+  "interests": [{
       "name": "internet of things",
-      "keywords": ["Database", ""]
+      "keywords": ["Database", "Software Engineering"]
     },
     {
       "name": "data mining",
       "keywords": ["SQL"]
     },
     {
-      "name": "artificial intelligence",
-      "keywords": []
+      "name": "Develope intelligence Software",
+      "keywords": ["Backend","FullStack"]
     }
   ],
-  "skills": [
-    {
+  "skills": [{
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": ["SQL", "C++", "Java", "Javascript", "VS Code", "SSMS"]
@@ -58,28 +55,35 @@
       "keywords": ["MacOS", "Ubuntu", "Windows", "Git/GitHub"]
     }
   ],
-  "education": [
-    {
+  "education": [{
       "institution": "Jahangirnagar University",
-      "area": "Mordern South Asia (Graduated, 2007)",
+      "area": "Mordern South Asia (Graduated)",
       "studyType": "M.A",
       "startDate": "2002-01-01",
-      "endDate": "2007",
+      "endDate": "2009",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "CUNY TechWorks QCC",
+      "area": "Software Development (Graduated)",
+      "studyType": "Certifite",
+      "startDate": "2019-01-01",
+      "endDate": "2019",
       "gpa": "",
       "courses": []
     }
   ],
-  "work": [
-    {
+  "work": [{
       "company": "Inspirave",
       "position": "FullStack Developer",
       "website": "www.inspirave.com",
       "startDate": "2019-06-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "endDate": "2019-10-30",
+      "summary": "Head of online presence on Web App",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee official website",
+        "Drive, design and build ommunity projects for Inspirave"
       ]
     },
     {
@@ -90,15 +94,13 @@
       "endDate": "2018-06-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Troubleshoot software on database in backend",
+        "Over phone and email responses to the ITS Help Desk"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+  "references": [{
+    "name": "Available upon request",
+    "reference": ""
+  }]
 }
